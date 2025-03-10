@@ -46,7 +46,7 @@ Agradecemos a los siguientes colaboradores por su invaluable contribución a est
 
 **Frontend:**
 
-* [Angie Bengelsdorff](https://github.com/ABengelsdorff)
+* [Angelica Bengelsdorff](https://github.com/ABengelsdorff)
 * [Maria Paz Rivas](https://github.com/Maria-Paz-Rivas)
 * [Hugo Esverri](https://github.com/HugoEseverri)
 * [Cristian Camelo](https://github.com/CristianCamelo)
